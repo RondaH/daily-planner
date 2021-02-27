@@ -8,6 +8,6 @@ URL of deployed application:
 URL of GitHub repository:
 
 
-Screenshot: [   ]
+Screenshot: ![screenshot](./assets/screenshot.png)
 
 Contributions: I would like to thank my tutor,the OSU bootcamp Instructor, T.A.'s and fellow classmates. The changes made by myself, Ronda Heimberger
