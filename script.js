@@ -1,22 +1,5 @@
-/*var currentDayEl = $("#currentDay");
-
-function displayDate() {
-    var rightNow = moment().format("dddd, MMMM Do YYYY, h:mm:ss a");
-    currentDayEl.text(rightNow);
-}
-console.log (currentDay)
-taken from momentsjs.com
-
-$(document).ready(function () {
-
-$(".saveBtn").on("click", function (){
-
-})
-
-$("currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
-
-})*/
 /* added current day to jumbotron, set vars and function to save in local storage*/
+
 var currentDay = moment().format("dddd, MMMM Do YYYY, h:mm:ss a");
 $("#currentDay").append(currentDay);
 $(".saveBtn").on("click", function(){

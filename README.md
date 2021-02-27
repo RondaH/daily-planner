@@ -1,12 +1,7 @@
 The purpose of this application is to build a simple calendar that helps one to manage their daily schedule. 
 
-
-URL of deployed application:
-
-
-
 URL of GitHub repository:
-
+https://github.com/RondaH
 
 Screenshot: ![screenshot](./assets/screenshot.png)
 
